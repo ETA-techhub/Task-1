@@ -49,5 +49,3 @@ Clean and preprocess the Titanic dataset for machine learning.
 
 ---
 
-## 🔗 Submission
-Submit the GitHub repo link via the official form provided in the internship task PDF.
